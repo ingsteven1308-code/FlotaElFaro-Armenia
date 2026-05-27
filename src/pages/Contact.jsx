@@ -29,7 +29,7 @@ export default function Contact() {
               Contáctanos
             </h1>
             <p className="text-gray-400 text-lg">
-              Estamos disponibles 24/7 para atenderte. Elije la forma de contacto que prefieras.
+              Estamos disponibles 24/7 para atenderte. Elije la forma de contacto que prefieras
             </p>
           </motion.div>
         </div>
